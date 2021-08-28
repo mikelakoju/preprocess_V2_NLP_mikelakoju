@@ -13,10 +13,11 @@ pip install beautifulsoup4==4.9.1
 pip install textblob==0.15.3
 ```
 
-Install
+To Install
 
 `pip install git+https://github.com/mikelakoju/preprocess_V2_NLP_mikelakoju.git --upgrade --force-reinstall`
 
+To Uninstall
 `pip uninstall preprocess_V2_NLP_mikelakoju`
 
 #### How to use it for preprocessing
